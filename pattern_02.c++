@@ -3,8 +3,8 @@ using namespace std;
 int main()
 {
     int Num;
-    cout << "Pattern Matching 2...." << endl;
-    cout << "First example --->>>" << endl;
+    cout << "Write a Program to print an inverted right triangle star pattern." << endl;
+    cout << "For example --->>>" << endl;
     cout << "*****" << endl;
     cout << "****" << endl;
     cout << "***" << endl;
