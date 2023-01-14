@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
     int Num;
-    cout << "Pattern Matching 1...." << endl;
-    cout << "First example --->>>" << endl;
+    cout << "Write a Program to print the right triangle star pattern." << endl;
+    cout << "For example --->>>" << endl;
     cout << "*" << endl;
     cout << "**" << endl;
     cout << "***" << endl;
